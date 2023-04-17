@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\imageform\imageform\bin\Debug\imageform.exe.config
+C:\Users\User\source\repos\imageform\imageform\bin\Debug\imageform.exe
+C:\Users\User\source\repos\imageform\imageform\bin\Debug\imageform.pdb
+C:\Users\User\source\repos\imageform\imageform\obj\Debug\imageform.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\imageform\imageform\obj\Debug\imageform.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\imageform\imageform\obj\Debug\imageform.Form1.resources
+C:\Users\User\source\repos\imageform\imageform\obj\Debug\imageform.Properties.Resources.resources
+C:\Users\User\source\repos\imageform\imageform\obj\Debug\imageform.csproj.GenerateResource.cache
+C:\Users\User\source\repos\imageform\imageform\obj\Debug\imageform.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\imageform\imageform\obj\Debug\imageform.exe
+C:\Users\User\source\repos\imageform\imageform\obj\Debug\imageform.pdb
