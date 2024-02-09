@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imageform", "imageform\imageform.csproj", "{7CBD9CAE-8718-4541-8EFF-301048CD05DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CBD9CAE-8718-4541-8EFF-301048CD05DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBD9CAE-8718-4541-8EFF-301048CD05DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBD9CAE-8718-4541-8EFF-301048CD05DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBD9CAE-8718-4541-8EFF-301048CD05DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98556A8E-BCFF-4F72-9B22-8421E333D61A}
+	EndGlobalSection
+EndGlobal
